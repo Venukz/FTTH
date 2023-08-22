@@ -1,0 +1,25 @@
+*
+{
+    margin: 5px;
+    padding: 5px;
+}
+
+.form-items
+{
+   border: solid 2px black;
+   border-radius: 5px;
+   width: fit-content;
+   height: fit-content;
+   margin-top: 100px;
+}
+
+input
+{
+    height: 30px;
+    width: 50%;
+}
+
+button
+{
+    background-color: green;
+}
